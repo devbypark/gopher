@@ -1,0 +1,6 @@
+{
+    "name": "Gopher Token",
+    "symbol": "GOPHR",
+    "description": "Gopher token from Solana Making a Token guide.",
+    "image": "https://raw.githubusercontent.com/devbypark/gopher/main/gopher.jpg"
+  }
